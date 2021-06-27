@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530360269767",
+    "project_id": "realtimedbcrud",
+    "storage_bucket": "realtimedbcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530360269767:android:9e3cfeb1cdf0f721a837e2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_realtime_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530360269767-c0thprdqd85d3ff1omg7pdq9n4s4hl7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_realtime_crud",
+            "certificate_hash": "205835bcb2a5684521a7df2e96c57d5eadffc386"
+          }
+        },
+        {
+          "client_id": "530360269767-0athof0ke1sue1vr6g3aj5okqd6dld3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33dU7WQFMsKro7DKs6zp_enCwnGvNVdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530360269767-0athof0ke1sue1vr6g3aj5okqd6dld3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
